@@ -20,7 +20,7 @@ App para agendar citas medicas con **ReactJs** y **firebase** como backend, que 
 ---
 
 ## 🚀 Demo en Producción
-👉 [Ver aplicación en línea] ()
+👉 [Ver aplicación en línea] (https://cita-express.vercel.app/)
 
 ---
 
